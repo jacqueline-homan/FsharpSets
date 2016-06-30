@@ -1,0 +1,5 @@
+/home/jacque/Projects/F-sharp/SetsAndMaps/MapsSpeed/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/home/jacque/Projects/F-sharp/SetsAndMaps/MapsSpeed/bin/Debug/MapsSpeed.exe.mdb
+/home/jacque/Projects/F-sharp/SetsAndMaps/MapsSpeed/bin/Debug/MapsSpeed.exe
+/home/jacque/Projects/F-sharp/SetsAndMaps/MapsSpeed/obj/x86/Debug/MapsSpeed.exe
+/home/jacque/Projects/F-sharp/SetsAndMaps/MapsSpeed/obj/x86/Debug/MapsSpeed.exe.mdb

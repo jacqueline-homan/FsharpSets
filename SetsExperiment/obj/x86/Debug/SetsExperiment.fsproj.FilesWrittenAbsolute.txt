@@ -1,0 +1,5 @@
+/home/jacque/Projects/F-sharp/SetsAndMaps/SetsExperiment/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
+/home/jacque/Projects/F-sharp/SetsAndMaps/SetsExperiment/bin/Debug/SetsExperiment.exe.mdb
+/home/jacque/Projects/F-sharp/SetsAndMaps/SetsExperiment/bin/Debug/SetsExperiment.exe
+/home/jacque/Projects/F-sharp/SetsAndMaps/SetsExperiment/obj/x86/Debug/SetsExperiment.exe
+/home/jacque/Projects/F-sharp/SetsAndMaps/SetsExperiment/obj/x86/Debug/SetsExperiment.exe.mdb

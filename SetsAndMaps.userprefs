@@ -1,9 +1,13 @@
 ﻿<Properties StartupItem="SetsAndMaps/SetsAndMaps.fsproj">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SetModuleMethods/Program.fs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MapsSpeed/Program.fs">
     <Files>
-      <File FileName="SetsAndMaps/Program.fs" Line="15" Column="15" />
-      <File FileName="SetsRegex/Program.fs" Line="20" Column="5" />
-      <File FileName="SetModuleMethods/Program.fs" Line="26" Column="1" />
+      <File FileName="SetsAndMaps/Program.fs" Line="8" Column="24" />
+      <File FileName="SetsRegex/Program.fs" Line="22" Column="42" />
+      <File FileName="SetModuleMethods/Program.fs" Line="52" Column="1" />
+      <File FileName="SetsExperiment/Program.fs" Line="20" Column="38" />
+      <File FileName="HiddenMutability/Program.fs" Line="23" Column="13" />
+      <File FileName="Maps/Program.fs" Line="32" Column="37" />
+      <File FileName="MapsSpeed/Program.fs" Line="13" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

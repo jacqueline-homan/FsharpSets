@@ -46,13 +46,9 @@ let check4 = Set.isProperSuperset beverages nonsense |> printfn "%A"
 
 nonsense - beverages |> printfn "%A"
 nonsense - foods |> printfn "%A"
+foods - nonsense |> printfn "%A"
+beverages - nonsense |> printfn "%A"
 
-(*
-fileWords @"/home/jacque/Documents/indgrdn.txt"
-|> Set.ofSeq
-|> Seq.truncate 1000
-|> Seq.iter(fun w -> printfn "%s" w)
-*)
 
 [<EntryPoint>]
 let main argv = 

@@ -1,5 +1,0 @@
-/home/jacque/Projects/F-sharp/SetsAndMaps/SetsAndMaps/obj/x86/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.fs
-/home/jacque/Projects/F-sharp/SetsAndMaps/SetsAndMaps/bin/Debug/SetsAndMaps.exe.mdb
-/home/jacque/Projects/F-sharp/SetsAndMaps/SetsAndMaps/bin/Debug/SetsAndMaps.exe
-/home/jacque/Projects/F-sharp/SetsAndMaps/SetsAndMaps/obj/x86/Debug/SetsAndMaps.exe
-/home/jacque/Projects/F-sharp/SetsAndMaps/SetsAndMaps/obj/x86/Debug/SetsAndMaps.exe.mdb
